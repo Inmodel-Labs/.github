@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHRxZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPxyE-qKQgHS/giphy.gif" width="600" alt="Inmodel Labs AI Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="600" alt="Inmodel Labs Tech Header" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ From **NexusOS** (agentic pipelines) to **INITI Claw** (CLI-driven AI orchestrat
 ## 🧠 Engineering Philosophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHRxZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L4TNHVeOP0wC4/giphy.gif" width="400" alt="Engineering Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="500" alt="Engineering Animation" />
 </div>
 
 **1. High-Fidelity Execution**  
@@ -64,6 +64,11 @@ project-name/
 ---
 
 ## 🚀 Get Involved
+
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" alt="Working Octocat" />
+</div>
+
 Inmodel Labs is driven by **Niti**, a CS engineer focused on pushing the boundaries of what's possible with AI and Systems.
 
 - **Explore:** Check our [Starter Kits](https://github.com/Inmodel-Labs/starter-kits) to build your own experiments.
