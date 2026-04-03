@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="300" align="center" valign="top">
-      <img src="octocat.png" width="300" alt="Inmodel Labs Logo" />
+      <img src="profile/octocat.png" width="300" alt="Inmodel Labs Logo" />
     </td>
     <td valign="top">
       <h1>🧪 Inmodel Labs</h1>
