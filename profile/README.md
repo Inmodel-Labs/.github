@@ -1,98 +1,75 @@
 <div align="center">
 
 # 🧪 Inmodel Labs
-
-**A personal research lab for shipping experiments at the intersection of AI, systems, and full-stack engineering.**
-
-*Built by a first-year CS student who refuses to wait until graduation.*
+**A high-velocity research lab shipping at the intersection of AI, Systems, and Full-stack Engineering.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Inmodel-Labs?style=flat&color=black)](https://github.com/Inmodel-Labs)
-[![Status](https://img.shields.io/badge/status-actively%20building-brightgreen)]()
+[![Status](https://img.shields.io/badge/Status-Actively%20Building-00ff00?style=flat-square)]()
+[![Organization](https://img.shields.io/badge/Org-Inmodel--Labs-blue?style=flat-square)]()
 
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHRxZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPxyE-qKQgHS/giphy.gif" width="600" alt="Inmodel Labs AI Animation" />
 </div>
 
 ---
 
-## What is Inmodel Labs?
+## 🔬 The Lab Thesis
+Inmodel Labs is an independent execution engine designed to **bridge the gap between AI research and production-ready systems.** We don't just study models; we build the infrastructure that makes them useful.
 
-Inmodel Labs is an indie lab — a place to **build fast, break things, and publish experiments** that would otherwise stay trapped in local folders.
-
-No thesis. No permissions. Just ideas → code → shipped.
-
-The projects here range from AI-powered education platforms to PC security systems to full-stack experiments with LLMs, embeddings, and whatever else seems worth building this week.
+From **NexusOS** (agentic pipelines) to **INITI Claw** (CLI-driven AI orchestration), our focus is on building "alive" systems that automate, secure, and scale.
 
 ---
 
-## 🔬 Active Projects
+## 🛠️ Core Infrastructure
 
-| Project | What it is | Stack |
-|--------|-----------|-------|
-| **EduAI** | Full-stack AI-powered education platform with tutoring, OCR test review, gamification & live classes | React · FastAPI · PostgreSQL · Mistral OCR · HuggingFace |
-| **SecureVault** | Multi-layer PC locking system with biometric auth, stealth mode & remote management | Python · C# · Tauri · React · Windows Hello |
-| **ServeLocal** | Local services booking marketplace with real-time state machine & booking engine | React/Vite · FastAPI · PostgreSQL · Firebase Auth |
-
-> More experiments ship regularly. Star the org to follow along.
-
----
-
-## 🧠 Philosophy
-
-**Ship first. Refactor later. Learn always.**
-
-Most students study AI. Here, we build with it. Every project is a chance to go from *"I understand this concept"* to *"I deployed this concept."*
-
-The lab explores:
-- 🤖 **AI/ML integrations** — LLM tooling, fine-tuning pipelines, multimodal systems
-- 🏗️ **Full-stack architecture** — FastAPI backends, React frontends, real databases
-- 🔐 **Systems programming** — OS-level tooling, native integrations, performance work
-- 🎮 **UX experiments** — Interfaces that feel alive, not just functional
+| Project | Description | Tech Stack |
+|:--- |:--- |:--- |
+| **[NexusOS](https://github.com/Inmodel-Labs/NexusOS)** | Event-driven agent pipeline for autonomous task execution and delivery. | TypeScript · MCP · Node.js |
+| **[INITI Claw](https://github.com/Inmodel-Labs/ini_claw)** | Autonomous CLI interface for advanced AI model orchestration. | TypeScript · Python · LLMs |
+| **[AppGuard](https://github.com/Inmodel-Labs/app-guard-design-system)** | Specialized UI Design System for secure, high-integrity AI applications. | React · Tailwind · Radix UI |
+| **[Problem State](https://github.com/Inmodel-Labs/problem-state)** | Evolving benchmark and problem statements for Gen-AI stress testing. | TypeScript · Markdown |
 
 ---
 
-## 🗂️ Repo Structure
+## 🧠 Engineering Philosophy
 
-Each repository follows a simple pattern:
+**1. High-Fidelity Execution**  
+We prioritize building visually polished, functionally complete prototypes. A system should not only work—it should feel "alive."
 
-```
-project-name/
-├── README.md        # What it is, why it exists, how to run it
-├── docs/            # PRDs, architecture diagrams, design notes
-├── src/             # Source code
-└── experiments/     # Scratchpad ideas and prototypes
-```
+**2. Agentic Automation**  
+We believe the future of software is agentic. Our tools are built to be manipulated by both humans and AI agents (Antigravity, Claude Code, MCP).
+
+**3. System Integrity**  
+Security isn't a feature; it's a baseline. We focus on OS-level security, biometric auth, and secure-by-default AI pipelines.
 
 ---
 
-## 🚀 Running Things
-
-Most projects are self-contained. Clone → install deps → run. Check each repo's README for specifics.
+## 🏗️ Repository Standards
+Every repository in the Inmodel Labs ecosystem adheres to a unified structure for predictable discovery:
 
 ```bash
-git clone https://github.com/Inmodel-Labs/<project-name>
-cd <project-name>
-# follow the project README
+project-name/
+├── 📂 src/          # Production-grade source code
+├── 📂 docs/         # Architecture diagrams & technical specs
+├── 📂 experiments/  # Prototypes and R&D scratchpads
+└── 📄 README.md     # Setup, logic, and contribution guide
 ```
 
 ---
 
-## 👤 About
+## 🚀 Get Involved
+Inmodel Labs is driven by **Niti**, a CS engineer focused on pushing the boundaries of what's possible with AI and Systems.
 
-Inmodel Labs is run by **Niti** — a first-year CS student building at the intersection of AI, full-stack dev, and systems programming. Interested in AI/ML research, platform engineering, and anything that ships.
-
-> *"The best way to learn systems is to build them."*
-
----
-
-## 📬 Get in Touch
-
-Ideas? Collabs? Interesting problems?
-
-Open an issue on any repo, or reach out directly on GitHub.
+- **Explore:** Check our [Starter Kits](https://github.com/Inmodel-Labs/starter-kits) to build your own experiments.
+- **Collaborate:** Open an issue or a PR if you have a high-impact idea.
+- **Connect:** [Follow the organization](https://github.com/Inmodel-Labs) for the latest ship logs.
 
 ---
 
 <div align="center">
 
-*Inmodel Labs — experiments in progress, always.*
+*Inmodel Labs — Experiments in progress, always.*
 
 </div>
