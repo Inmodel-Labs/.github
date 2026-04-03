@@ -4,10 +4,6 @@
 
 **High-velocity experiments at the intersection of AI, Systems, and Engineering.**
 
-<br clear="all" />
-
----
-
 ### What we do
 We bridge the gap between AI research and production-grade systems, building "alive" infrastructure that automates, secures, and scales.
 
@@ -16,10 +12,10 @@ We bridge the gap between AI research and production-grade systems, building "al
 - **INITI Claw:** Autonomous CLI interfaces.
 - **AppGuard:** High-integrity design systems.
 
+<br clear="right" />
+
 ---
 
 <div align="center">
-  <br/><br/>
-  <hr/>
   <i>Inmodel Labs — Experiments in progress, always.</i>
 </div>
