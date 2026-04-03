@@ -1,4 +1,4 @@
-<img src="profile/octocat.png" align="right" width="450" />
+<img src="https://raw.githubusercontent.com/Inmodel-Labs/.github/main/profile/octocat.png" align="right" width="450" />
 
 # 🧪 Inmodel Labs
 
