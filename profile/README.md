@@ -35,6 +35,10 @@ From **NexusOS** (agentic pipelines) to **INITI Claw** (CLI-driven AI orchestrat
 
 ## 🧠 Engineering Philosophy
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHRxZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqZXRqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L4TNHVeOP0wC4/giphy.gif" width="400" alt="Engineering Animation" />
+</div>
+
 **1. High-Fidelity Execution**  
 We prioritize building visually polished, functionally complete prototypes. A system should not only work—it should feel "alive."
 
